@@ -1,0 +1,5 @@
+se realizo la modificacion de las variables del scanner, se realizo modificacion de las variables String
+que identifican el dato ingresado para cada jugador,
+se realizo modificacion del switch con su correspondiente break, y se le asignaron otras opciones al switch para evaluar todos los casos
+ademas que tambien se configuro un mensaje default por si se ingresan datos que no coinciden con los esperados
+ademas, se cambio la comparacion de los string con los valores del switch al metodo equals para comparar los string adecuadamente.
